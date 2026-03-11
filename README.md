@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋 I'm Belal Hossain<br><br>🎓 CSE Student at East West University<br>💻 Aspiring AI Engineer<br>🇧🇩 From Narayanganj, Bangladesh</h3>
 
 ###
-<h4>🚀 About Me
+🚀 About Me
 
 I am a Computer Science and Engineering student at **East West University** with a strong interest in:
 
@@ -16,7 +16,7 @@ My long-term goal is to pursue **MSc abroad and build a career in AI and Cyberse
 
 ---
 
-<h4>### Computer Science Areas
+### Computer Science Areas
 - Algorithms and Data Structures
 - Dynamic Programming
 - Graph Algorithms
@@ -25,7 +25,7 @@ My long-term goal is to pursue **MSc abroad and build a career in AI and Cyberse
 
 ---
 
-<h3># 🧩 Coding Profiles
+# 🧩 Coding Profiles
 
 💻 **Codeforces**  
 https://codeforces.com/profile/cakida
@@ -38,7 +38,7 @@ https://www.geeksforgeeks.org/profile/itsmebelakfsf
 
 ---
 
-<h3>## 📚 Education
+## 📚 Education
 
 **East West University**  
 BSc in Computer Science and Engineering
@@ -53,7 +53,8 @@ Secondary School Certificate (SSC)
 
 
 
-<h3>**Skills and Tools**
+**Skills and Tools**
+<br>
 <br>
 <br>
 <div align="center">
@@ -94,10 +95,10 @@ Secondary School Certificate (SSC)
 
 ###
 
-<h3>**Connect with Me**
+**Connect with Me**
 <br>
 <br>
-
+<br>
 <div align="left">
   <a href="https://www.linkedin.com/in/belal-hossain-1039461b5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
