@@ -136,12 +136,12 @@ Secondary School Certificate (SSC)
 <br>
 <br>
 
-
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsme-belal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsme-belal&show_icons=true&theme=tokyonight&count_private=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-belal&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsme-belal&theme=tokyo-night" />
 
 </p>
