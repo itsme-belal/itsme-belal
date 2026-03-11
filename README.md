@@ -53,7 +53,7 @@ Secondary School Certificate (SSC)
 
 
 
-**Skills and Tools**
+<h3>**Skills and Tools**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -93,7 +93,7 @@ Secondary School Certificate (SSC)
 
 ###
 
-**Connect with Me**
+<h3>**Connect with Me**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/belal-hossain-1039461b5/" target="_blank">
@@ -127,7 +127,7 @@ Secondary School Certificate (SSC)
 
 
 
-## 📊 GitHub Stats
+<h3>## 📊 GitHub Stats
 
 <p align="center">
 
