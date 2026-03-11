@@ -109,7 +109,7 @@ Secondary School Certificate (SSC)
   <a href="https://www.facebook.com/profile.php?id=61584414731696" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="itsmebelalhossain@gmail.com" target="_blank">
+  <a href="mailto:itsmebelalhossain@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/itsmebelalhossa1" target="_blank">
