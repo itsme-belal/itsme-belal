@@ -43,26 +43,16 @@ https://www.geeksforgeeks.org/profile/itsmebelakfsf
 **East West University**  
 BSc in Computer Science and Engineering
 
+##
 **Dr. Mahabubur Rahman Mollah College**
 High school certificate (HSC)
 
+##
 **Shanarpar Sheikh Mortaja Ali High School**
 Senior School Certificate (SSC)
 
 ---
 
-
-## 📈 Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Cybersecurity
-- Algorithms
-- System Design
-
----
-
-⭐ Always learning, always building.
 
 
 **Skills and Tools**
