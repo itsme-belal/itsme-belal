@@ -1,6 +1,71 @@
 <h3 align="center">Hi 👋 I'm Belal Hossain<br><br>🎓 CSE Student at East West University<br>💻 Aspiring AI Engineer<br>🇧🇩 From Narayanganj, Bangladesh</h3>
 
 ###
+🚀 About Me
+
+I am a Computer Science and Engineering student at **East West University** with a strong interest in:
+
+- Artificial Intelligence
+- Algorithms and Data Structures
+- Cybersecurity
+- Backend Development
+
+I enjoy solving algorithmic problems and building software systems to solve real-world problems.
+
+My long-term goal is to pursue **MSc abroad and build a career in AI and Cybersecurity**.
+
+---
+
+### Computer Science Areas
+- Algorithms and Data Structures
+- Dynamic Programming
+- Graph Algorithms
+- Operating Systems
+- Database Systems
+
+---
+
+# 🧩 Coding Profiles
+
+💻 **Codeforces**  
+https://codeforces.com/profile/cakida
+
+⚡ **HackerRank**  
+https://www.hackerrank.com/profile/itsmebelalhossa1
+
+📚 **GeeksforGeeks**  
+https://www.geeksforgeeks.org/profile/itsmebelakfsf
+
+---
+
+## 📚 Education
+
+**East West University**  
+BSc in Computer Science and Engineering
+
+**Dr. Mahabubur Rahman Mollah College**
+High school certificate (HSC)
+
+**Shanarpar Sheikh Mortaja Ali High School**
+Senior School Certificate (SSC)
+
+---
+
+
+## 📈 Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Cybersecurity
+- Algorithms
+- System Design
+
+---
+
+⭐ Always learning, always building.
+
+
+**Skills and Tools**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -39,6 +104,8 @@
 </div>
 
 ###
+
+**How to reach me**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/belal-hossain-1039461b5/" target="_blank">
