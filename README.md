@@ -43,13 +43,11 @@ https://www.geeksforgeeks.org/profile/itsmebelakfsf
 **East West University**  
 BSc in Computer Science and Engineering
 
-##
-**Dr. Mahabubur Rahman Mollah College**
+**Dr. Mahabubur Rahman Mollah College**<br>
 High school certificate (HSC)
 
-##
-**Shanarpar Sheikh Mortaja Ali High School**
-Senior School Certificate (SSC)
+**Shanarpar Sheikh Mortaja Ali High School**<br>
+Secondary School Certificate (SSC)
 
 ---
 
@@ -95,7 +93,7 @@ Senior School Certificate (SSC)
 
 ###
 
-**How to reach me**
+**Connect with Me**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/belal-hossain-1039461b5/" target="_blank">
@@ -126,3 +124,15 @@ Senior School Certificate (SSC)
 </div>
 
 ###
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsme-belal&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-belal&layout=compact&theme=tokyonight" />
+
+</p>
