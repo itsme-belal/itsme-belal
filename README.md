@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋 I'm Belal Hossain<br><br>🎓 CSE Student at East West University<br>💻 Aspiring AI Engineer<br>🇧🇩 From Narayanganj, Bangladesh</h3>
+<h3 align="center">Hi 👋 I'm Belal Hossain<br><br>🎓 CSE Student at East West University<br>💻 Aspiring AI Engineer<br>🇧🇩 From Dhaka, Bangladesh</h3>
 
 ###
 🚀 About Me
