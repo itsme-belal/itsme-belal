@@ -56,17 +56,7 @@ My primary interests sit at the intersection of **machine learning**, **cybersec
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
 
-### CS focus areas
-
-Algorithms & Data Structures   ████████████░░
-Dynamic Programming            ██████████░░░░
-Graph Algorithms               █████████░░░░░
-Operating Systems              ████████░░░░░░
-Database Systems               ████████░░░░░░
-Machine Learning               ██████░░░░░░░░  (learning)
-Cybersecurity                  █████░░░░░░░░░  (learning)
 ---
 
 ### Coding profiles
