@@ -70,13 +70,15 @@ Open to            →  Collaboration on ML/security projects · MSc opportuniti
 ---
 
 ## Education
-
+```text
 **🎓  BSc — Computer Science & Engineering**
 **East West University · Dhaka · In progress**
-|📗  HSC — Higher Secondary Certificate|
-|Dr. Mahabubur Rahman Mollah College · Completed|
-|📘  SSC — Secondary School Certificate|
-|Shanarpar Sheikh Mortaja Ali High School · Completed|
+**📗  HSC — Higher Secondary Certificate**
+**Dr. Mahabubur Rahman Mollah College · Completed**
+**📘  SSC — Secondary School Certificate**
+**Shanarpar Sheikh Mortaja Ali High School · Completed**
+
+```
 
 ---
 
