@@ -71,8 +71,8 @@ Open to            →  Collaboration on ML/security projects · MSc opportuniti
 
 ## Education
 
-|🎓  BSc — Computer Science & Engineering|
-|East West University · Dhaka · In progress|
+**🎓  BSc — Computer Science & Engineering**
+**East West University · Dhaka · In progress**
 |📗  HSC — Higher Secondary Certificate|
 |Dr. Mahabubur Rahman Mollah College · Completed|
 |📘  SSC — Secondary School Certificate|
