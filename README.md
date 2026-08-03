@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;Competitive+Programmer;Aspiring+ML+Engineer;Building+toward+MSc+abroad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;Machine+Learning+Enthusiast;Cybersecurity+%26+Software+Engineering;Building+toward+MSc+abroad)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,15 +14,15 @@
 
 ## About me
 
-I'm a CSE student at **East West University**, Dhaka, with a strong passion for intelligent systems, algorithmic problem-solving, and secure software design.
+I'm a CSE student at **East West University**, Dhaka, currently studying **Machine Learning, Software Engineering, and Cybersecurity** in parallel — with ML and security as my core interests.
 
 My long-term goal is to pursue **graduate research abroad in AI and cybersecurity**, contributing to work that sits at the intersection of these fields.
 
 ```text
 Currently learning  →  Machine Learning · Cybersecurity fundamentals
-Currently building  →  Backend projects with Django and Node.js
+Currently building  →  EWU Portal System · StudyByte (P2P micro-tutoring marketplace)
 Currently solving   →  Competitive programming on Codeforces (handle: cakida)
-Open to            →  Collaboration on ML/security projects · MSc opportunities
+Open to             →  Collaboration on ML/security projects · MSc opportunities
 ```
 
 ---
@@ -38,8 +38,16 @@ Open to            →  Collaboration on ML/security projects · MSc opportuniti
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+**Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 **Frameworks & Web**
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -48,6 +56,7 @@ Open to            →  Collaboration on ML/security projects · MSc opportuniti
 
 **Databases & Tools**
 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -60,12 +69,22 @@ Open to            →  Collaboration on ML/security projects · MSc opportuniti
 
 | Area | Level | Progress |
 |---|---|---|
+| Machine Learning | Advanced | `████████████░░` 80% |
 | Algorithms & Data Structures | Advanced | `████████████░░` 82% |
 | C / C++ / Python | Proficient | `██████████░░░░` 75% |
-| Backend (Django / Node.js) | Comfortable | `█████████░░░░░` 62% |
+| Backend (Flask / Django / Node.js) | Comfortable | `██████████░░░░` 68% |
 | Database Systems | Comfortable | `████████░░░░░░` 58% |
-| Machine Learning | Learning | `██████░░░░░░░░` 40% |
-| Cybersecurity | Exploring | `████░░░░░░░░░░` 28% |
+| Cybersecurity | Growing | `██████░░░░░░░░` 42% |
+
+---
+
+## Featured projects
+
+**🎓 EWU Portal System**
+Role-based academic management platform (student / faculty / admin) for East West University, using a hybrid approach for advising and course-request workflows.
+
+**📚 StudyByte**
+Peer-to-peer micro-tutoring marketplace with a token-based payment system — Flask backend, Supabase (RLS), Cloudinary, Jitsi, SocketIO, and local mobile payment integrations (bKash, Nagad, Rocket).
 
 ---
 
@@ -77,7 +96,6 @@ Open to            →  Collaboration on ML/security projects · MSc opportuniti
 **Dr. Mahabubur Rahman Mollah College · Completed**<br><br>
 **📘  SSC — Secondary School Certificate**<br>
 **Shanarpar Sheikh Mortaja Ali High School · Completed**<br>
-
 
 ---
 
