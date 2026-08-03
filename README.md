@@ -85,7 +85,7 @@ Open to            →  Collaboration on ML/security projects · MSc opportuniti
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-cakida-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/cakida)
+[![Codeforces](https://img.shields.io/badge/Codeforces-cakida-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/be-lal)
 [![HackerRank](https://img.shields.io/badge/HackerRank-itsmebelalhossa1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/itsmebelalhossa1)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-itsmebelakfsf-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/itsmebelakfsf)
 
