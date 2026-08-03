@@ -113,11 +113,6 @@ Peer-to-peer micro-tutoring marketplace with a token-based payment system — Fl
 
 ## GitHub stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsme-belal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github&cache_seconds=86400" height="180"/>
-
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-belal&theme=tokyonight&hide_border=true" width="60%"/>
